@@ -2,6 +2,7 @@
 # -*- coding:utf-8 -*-
 import os
 import tkinter as tk  # 使用 tkinter 前需要先导入
+from fuction.basic import save_screen_cap_file
 
 # 第1步，实例化object，建立窗口window
 window = tk.Tk()
@@ -10,7 +11,7 @@ window = tk.Tk()
 window.title('My Window')
 
 # 第3步，设定窗口的大小(长 * 宽)
-window.geometry('500x300')
+window.geometry('800x500')
 
 # 第4步，在图形界面上设定标签
 
@@ -25,23 +26,10 @@ label = tk.Label(window, textvariable=var, bg='green', fg='white', font=('Arial'
 # 放置label的方法有：1）l.pack(); 2)l.place();
 label.pack()
 
-# 定义一个函数功能（内容自己自由编写），供点击Button按键时调用，调用命令参数command=函数名
-on_hit = False
-
-
-def hit_me():
-    global on_hit
-    if not on_hit:
-        on_hit = True
-        res = os.popen('adb devices')
-        var.set(res.read())
-    else:
-        on_hit = False
-        var.set('')
-
 
 # 第5步，放置标签
-button_connect = tk.Button(window, text='hit me', font=('Arial', 12), width=10, height=1, command=hit_me)
+button_connect = tk.Button(window, text='保存截图到本地', font=('Arial', 12), width=10, height=1,
+                           command=save_screen_cap_file())
 button_connect.pack()
 
 

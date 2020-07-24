@@ -1,15 +1,11 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 import os
+import time
 from constant import AdbCommand
 
 # 设备编号
 serial_list = []
-# 包名
-package_name = 'com.jingdong.app.mall'
-
-sd_file = '/sdcard/sc.png'
-local_file = os.path.join(os.path.expandvars('$HOME'), '/Desktop/')
 
 
 def execute_command(cmd, **kwargs):
@@ -23,7 +19,9 @@ def execute_command(cmd, **kwargs):
         # 替换 serial 参数
         for serial_name in serial_list:
             cmd = cmd.replace('{}', serial_name)
+            print(cmd)
             result = os.popen(cmd).read()
+            print(result)
             # res = os.system(cmd)
             return result
     else:
@@ -39,9 +37,5 @@ def init_serial_list():
         if serial_name:
             serial_list.append(serial_name)
 
-
-def save_screen_cap_file():
-    execute_command(AdbCommand.ADB_SCREEN_CAP, sd_file=sd_file)
-    execute_command(AdbCommand.ADB_PULL_FILE, sd_file=sd_file, local_file=local_file)
 
 

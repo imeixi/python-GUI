@@ -1,5 +1,16 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
+import os
+import time
+
+
+class Default(object):
+    # 默认包名
+    PACKAGE_NAME = 'com.jingdong.app.mall'
+    # 默认SD卡保存文件
+    SD_FILE = '/sdcard/sc_' + str(int(time.time())) + '.png'
+    # 默认本地桌面地址
+    LOCAL_FILE = os.path.join(os.path.expandvars('$HOME'), 'Desktop')
 
 
 class AdbCommand(object):
@@ -50,6 +61,3 @@ class AdbCommand(object):
     # 推送、拉取文件
     ADB_PULL_FILE = 'adb -s {} pull {sd_file} {local_file}'
     ADB_PUSH_FILE = 'adb -s {} push {local_file} {sd_file}'
-
-
-
