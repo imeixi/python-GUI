@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="168e4917-5538-4942-8832-5e236164bf34" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eowwnNkO2V2iLyBPP5RqeHlIMf" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/service" />
+      <recent name="$PROJECT_DIR$/fuction" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.App">
+    <configuration name="App" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-GUI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/window_manager" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/window_manager/App.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Application" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-GUI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/window_manager" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/window_manager/Application.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="WM" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-GUI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/window_manager" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/window_manager/WM.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-GUI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-GUI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.App" />
+        <item itemvalue="Python.WM" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.Application" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="168e4917-5538-4942-8832-5e236164bf34" name="Default Changelist" comment="" />
+      <created>1595001494974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595001494974</updated>
+      <workItem from="1595001496477" duration="2271000" />
+      <workItem from="1595036620585" duration="16291000" />
+      <workItem from="1595075433437" duration="121000" />
+      <workItem from="1595212594082" duration="1232000" />
+      <workItem from="1595232336115" duration="3385000" />
+      <workItem from="1595300098532" duration="864000" />
+      <workItem from="1595409475354" duration="8000" />
+      <workItem from="1595582182478" duration="76000" />
+      <workItem from="1595769615007" duration="6183000" />
+      <workItem from="1595779281949" duration="6000" />
+      <workItem from="1595900090299" duration="436000" />
+      <workItem from="1596019523175" duration="611000" />
+      <workItem from="1596508915403" duration="581000" />
+    </task>
+    <task id="LOCAL-00001" summary="init window">
+      <created>1595004254053</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595004254053</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1、初始化 service， constant">
+      <created>1595061871830</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595061871830</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1、重新梳理架构">
+      <created>1595582222422</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595582222422</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1、添加app，window 管理">
+      <created>1595779223537</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1595779223537</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init window" />
+    <MESSAGE value="1、初始化 service， constant" />
+    <MESSAGE value="1、重新梳理架构" />
+    <MESSAGE value="1、添加app，window 管理" />
+    <option name="LAST_COMMIT_MESSAGE" value="1、添加app，window 管理" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="744" y="406" key="#Notifications" timestamp="1595582251569">
+      <screen x="35" y="23" width="1645" height="1027" />
+    </state>
+    <state x="744" y="406" key="#Notifications/-99.-1057.1920.1057/35.23.1645.1027@35.23.1645.1027" timestamp="1595582251569" />
+    <state x="332" y="206" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595236508163">
+      <screen x="35" y="23" width="1645" height="1027" />
+    </state>
+    <state x="333" y="206" key="#com.intellij.execution.impl.EditConfigurationsDialog/-240.-1057.1920.1057/36.23.1644.1027@36.23.1644.1027" timestamp="1595058829995" />
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/-240.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595040548146" />
+    <state x="332" y="206" key="#com.intellij.execution.impl.EditConfigurationsDialog/-99.-1057.1920.1057/35.23.1645.1027@35.23.1645.1027" timestamp="1595236508163" />
+    <state x="423" y="119" key="CommitChangelistDialog2" timestamp="1595779223338">
+      <screen x="35" y="23" width="1645" height="1027" />
+    </state>
+    <state x="423" y="119" key="CommitChangelistDialog2/-240.-1057.1920.1057/35.23.1645.1027@35.23.1645.1027" timestamp="1595779223338" />
+    <state x="424" y="119" key="CommitChangelistDialog2/-240.-1057.1920.1057/36.23.1644.1027@36.23.1644.1027" timestamp="1595061871664" />
+    <state x="397" y="98" key="CommitChangelistDialog2/-240.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595004253879" />
+    <state x="423" y="119" key="CommitChangelistDialog2/-99.-1057.1920.1057/35.23.1645.1027@35.23.1645.1027" timestamp="1595582222149" />
+    <state width="1601" height="279" key="GridCell.Tab.0.bottom" timestamp="1595779241746">
+      <screen x="35" y="23" width="1645" height="1027" />
+    </state>
+    <state width="1601" height="279" key="GridCell.Tab.0.bottom/-240.-1057.1920.1057/33.23.1647.1027@33.23.1647.1027" timestamp="1595775392088" />
+    <state width="1601" height="279" key="GridCell.Tab.0.bottom/-240.-1057.1920.1057/34.23.1646.1027@34.23.1646.1027" timestamp="1595777428664" />
+    <state width="1601" height="279" key="GridCell.Tab.0.bottom/-240.-1057.1920.1057/35.23.1645.1027@35.23.1645.1027" timestamp="1595779241746" />
+    <state width="1601" height="279" key="GridCell.Tab.0.bottom/-240.-1057.1920.1057/36.23.1644.1027@-240.-1057.1920.1057" timestamp="1595059344761" />
+    <state width="1601" height="336" key="GridCell.Tab.0.bottom/-240.-1057.1920.1057/36.23.1644.1027@36.23.1644.1027" timestamp="1595061927236" />
+    <state width="1638" height="287" key="GridCell.Tab.0.bottom/-240.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595055446178" />
+    <state width="1601" height="279" key="GridCell.Tab.0.bottom/-99.-1057.1920.1057/34.23.1646.1027@34.23.1646.1027" timestamp="1595232502146" />
+    <state width="1601" height="279" key="GridCell.Tab.0.bottom/-99.-1057.1920.1057/35.23.1645.1027@35.23.1645.1027" timestamp="1595409367728" />
+    <state width="1601" height="279" key="GridCell.Tab.0.center" timestamp="1595779241745">
+      <screen x="35" y="23" width="1645" height="1027" />
+    </state>
+    <state width="1601" height="279" key="GridCell.Tab.0.center/-240.-1057.1920.1057/33.23.1647.1027@33.23.1647.1027" timestamp="1595775392086" />
+    <state width="1601" height="279" key="GridCell.Tab.0.center/-240.-1057.1920.1057/34.23.1646.1027@34.23.1646.1027" timestamp="1595777428663" />
+    <state width="1601" height="279" key="GridCell.Tab.0.center/-240.-1057.1920.1057/35.23.1645.1027@35.23.1645.1027" timestamp="1595779241745" />
+    <state width="1601" height="279" key="GridCell.Tab.0.center/-240.-1057.1920.1057/36.23.1644.1027@-240.-1057.1920.1057" timestamp="1595059344760" />
+    <state width="1601" height="336" key="GridCell.Tab.0.center/-240.-1057.1920.1057/36.23.1644.1027@36.23.1644.1027" timestamp="1595061927235" />
+    <state width="1638" height="287" key="GridCell.Tab.0.center/-240.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595055446177" />
+    <state width="1601" height="279" key="GridCell.Tab.0.center/-99.-1057.1920.1057/34.23.1646.1027@34.23.1646.1027" timestamp="1595232502145" />
+    <state width="1601" height="279" key="GridCell.Tab.0.center/-99.-1057.1920.1057/35.23.1645.1027@35.23.1645.1027" timestamp="1595409367726" />
+    <state width="1601" height="279" key="GridCell.Tab.0.left" timestamp="1595779241744">
+      <screen x="35" y="23" width="1645" height="1027" />
+    </state>
+    <state width="1601" height="279" key="GridCell.Tab.0.left/-240.-1057.1920.1057/33.23.1647.1027@33.23.1647.1027" timestamp="1595775392086" />
+    <state width="1601" height="279" key="GridCell.Tab.0.left/-240.-1057.1920.1057/34.23.1646.1027@34.23.1646.1027" timestamp="1595777428662" />
+    <state width="1601" height="279" key="GridCell.Tab.0.left/-240.-1057.1920.1057/35.23.1645.1027@35.23.1645.1027" timestamp="1595779241744" />
+    <state width="1601" height="279" key="GridCell.Tab.0.left/-240.-1057.1920.1057/36.23.1644.1027@-240.-1057.1920.1057" timestamp="1595059344760" />
+    <state width="1601" height="336" key="GridCell.Tab.0.left/-240.-1057.1920.1057/36.23.1644.1027@36.23.1644.1027" timestamp="1595061927234" />
+    <state width="1638" height="287" key="GridCell.Tab.0.left/-240.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595055446176" />
+    <state width="1601" height="279" key="GridCell.Tab.0.left/-99.-1057.1920.1057/34.23.1646.1027@34.23.1646.1027" timestamp="1595232502144" />
+    <state width="1601" height="279" key="GridCell.Tab.0.left/-99.-1057.1920.1057/35.23.1645.1027@35.23.1645.1027" timestamp="1595409367726" />
+    <state width="1601" height="279" key="GridCell.Tab.0.right" timestamp="1595779241745">
+      <screen x="35" y="23" width="1645" height="1027" />
+    </state>
+    <state width="1601" height="279" key="GridCell.Tab.0.right/-240.-1057.1920.1057/33.23.1647.1027@33.23.1647.1027" timestamp="1595775392087" />
+    <state width="1601" height="279" key="GridCell.Tab.0.right/-240.-1057.1920.1057/34.23.1646.1027@34.23.1646.1027" timestamp="1595777428664" />
+    <state width="1601" height="279" key="GridCell.Tab.0.right/-240.-1057.1920.1057/35.23.1645.1027@35.23.1645.1027" timestamp="1595779241745" />
+    <state width="1601" height="279" key="GridCell.Tab.0.right/-240.-1057.1920.1057/36.23.1644.1027@-240.-1057.1920.1057" timestamp="1595059344761" />
+    <state width="1601" height="336" key="GridCell.Tab.0.right/-240.-1057.1920.1057/36.23.1644.1027@36.23.1644.1027" timestamp="1595061927235" />
+    <state width="1638" height="287" key="GridCell.Tab.0.right/-240.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595055446178" />
+    <state width="1601" height="279" key="GridCell.Tab.0.right/-99.-1057.1920.1057/34.23.1646.1027@34.23.1646.1027" timestamp="1595232502145" />
+    <state width="1601" height="279" key="GridCell.Tab.0.right/-99.-1057.1920.1057/35.23.1645.1027@35.23.1645.1027" timestamp="1595409367727" />
+    <state width="1601" height="336" key="GridCell.Tab.1.bottom" timestamp="1595061927237">
+      <screen x="36" y="23" width="1644" height="1027" />
+    </state>
+    <state width="1601" height="336" key="GridCell.Tab.1.bottom/-240.-1057.1920.1057/36.23.1644.1027@36.23.1644.1027" timestamp="1595061927237" />
+    <state width="1601" height="336" key="GridCell.Tab.1.center" timestamp="1595061927236">
+      <screen x="36" y="23" width="1644" height="1027" />
+    </state>
+    <state width="1601" height="336" key="GridCell.Tab.1.center/-240.-1057.1920.1057/36.23.1644.1027@36.23.1644.1027" timestamp="1595061927236" />
+    <state width="1601" height="336" key="GridCell.Tab.1.left" timestamp="1595061927236">
+      <screen x="36" y="23" width="1644" height="1027" />
+    </state>
+    <state width="1601" height="336" key="GridCell.Tab.1.left/-240.-1057.1920.1057/36.23.1644.1027@36.23.1644.1027" timestamp="1595061927236" />
+    <state width="1601" height="336" key="GridCell.Tab.1.right" timestamp="1595061927237">
+      <screen x="36" y="23" width="1644" height="1027" />
+    </state>
+    <state width="1601" height="336" key="GridCell.Tab.1.right/-240.-1057.1920.1057/36.23.1644.1027@36.23.1644.1027" timestamp="1595061927237" />
+    <state x="466" y="282" key="Vcs.Push.Dialog.v2" timestamp="1595903462094">
+      <screen x="35" y="23" width="1645" height="1027" />
+    </state>
+    <state x="466" y="282" key="Vcs.Push.Dialog.v2/-240.-1057.1920.1057/35.23.1645.1027@35.23.1645.1027" timestamp="1595779225450" />
+    <state x="467" y="282" key="Vcs.Push.Dialog.v2/-240.-1057.1920.1057/36.23.1644.1027@36.23.1644.1027" timestamp="1595061873850" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/-240.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595004256689" />
+    <state x="466" y="282" key="Vcs.Push.Dialog.v2/-99.-1057.1920.1057/35.23.1645.1027@35.23.1645.1027" timestamp="1595903462094" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_GUI$test.coverage" NAME="test Coverage Results" MODIFIED="1595775439722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_GUI$WM.coverage" NAME="WM Coverage Results" MODIFIED="1595777585696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/window_manager" />
+    <SUITE FILE_PATH="coverage/python_GUI$app_prefermance.coverage" NAME="app_prefermance Coverage Results" MODIFIED="1595232345620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_GUI$App.coverage" NAME="App Coverage Results" MODIFIED="1595777759397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/window_manager" />
+    <SUITE FILE_PATH="coverage/python_GUI$main.coverage" NAME="main Coverage Results" MODIFIED="1595236984266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_GUI$app.coverage" NAME="app Coverage Results" MODIFIED="1595774650776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/window_manager" />
+    <SUITE FILE_PATH="coverage/python_GUI$service.coverage" NAME="service Coverage Results" MODIFIED="1595213406848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
